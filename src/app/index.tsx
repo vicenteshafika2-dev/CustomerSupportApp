@@ -184,7 +184,7 @@ export default function Index() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: '#f5f6fa',
+    backgroundColor: '#69d26f',
   },
   scrollContainer: {
     padding: 20,
